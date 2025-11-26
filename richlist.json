@@ -6,7 +6,7 @@
     },
     {
       "account": "rf7g4JWCxu9oE1MKsWTihL9whY75AphCaV",
-      "balance": 1156286323.022229
+      "balance": 1156304347.517474
     },
     {
       "account": "rNtuJWg6bYVLHTDntKMxqLk5qWXZTphscr",
@@ -43461,10 +43461,6 @@
       "balance": 196717.647024
     },
     {
-      "account": "rGCkEefBo2ypCTQ5SaEPzXcw9BCpRLSy3E",
-      "balance": 196708.8258256052
-    },
-    {
       "account": "rUUP7LDcR1bXLi2cVshKdnocRPkd7PctPb",
       "balance": 196559.3523572589
     },
@@ -44777,6 +44773,10 @@
       "balance": 177315.011279
     },
     {
+      "account": "rGCkEefBo2ypCTQ5SaEPzXcw9BCpRLSy3E",
+      "balance": 177314.5556576788
+    },
+    {
       "account": "rh1ZLSpN6d6SaYytXQNSXwksCfMebJZHdS",
       "balance": 177296.4924896948
     },
@@ -44877,6 +44877,10 @@
       "balance": 176096
     },
     {
+      "account": "r4EXr5WBwmWM5CYnda9LsxDuo444dVQgou",
+      "balance": 176062.9382730254
+    },
+    {
       "account": "rKMLuW34jrng1kPGtzR6zb3ZwgCMVqt6z6",
       "balance": 176018.0089253986
     },
@@ -44915,10 +44919,6 @@
     {
       "account": "rBzKnxiXsrrnUjhQ6eq6C655bq28JdRLwf",
       "balance": 175272
-    },
-    {
-      "account": "r4EXr5WBwmWM5CYnda9LsxDuo444dVQgou",
-      "balance": 175203.521730908
     },
     {
       "account": "raWVomwHaJHytXQfqCtBggji2gxYZ5o97P",
@@ -56821,6 +56821,10 @@
       "balance": 97831.05491667041
     },
     {
+      "account": "rQUPLiFp92miEwW6W2QSUTdWHaQb6YzRMQ",
+      "balance": 97827.87647300203
+    },
+    {
       "account": "r3pFmX2o834bwkUmsnM6wuxRY9LsMfCvnW",
       "balance": 97704.36585705403
     },
@@ -56867,10 +56871,6 @@
     {
       "account": "rp8KhVLYzM7MWc7NR8LCmwvMuqaoxqTK21",
       "balance": 97472.7439782831
-    },
-    {
-      "account": "rQUPLiFp92miEwW6W2QSUTdWHaQb6YzRMQ",
-      "balance": 97472.28005567002
     },
     {
       "account": "rHxDYBSoG8hjAQ2dK69MdyDsqS17y1RrxQ",
@@ -58053,6 +58053,10 @@
       "balance": 87331.4352611542
     },
     {
+      "account": "rPFe2vDwBzftQkBGjhkvz8Ua6zzrHhFG3r",
+      "balance": 87324.54068663255
+    },
+    {
       "account": "r9dRAEGVNawPyBDiC1q6iJucaJPGWjS1Rt",
       "balance": 87319.1685807898
     },
@@ -58067,10 +58071,6 @@
     {
       "account": "rPAKRhQX9EaXwzYsspBFs2yHjejV4vuqRZ",
       "balance": 87224.15347904986
-    },
-    {
-      "account": "rPFe2vDwBzftQkBGjhkvz8Ua6zzrHhFG3r",
-      "balance": 87176.88910975413
     },
     {
       "account": "rnT9NsdGJcQTMB9MkVR6qqhRUyBLf6JCr8",
@@ -60970,7 +60970,7 @@
     },
     {
       "account": "rBbya3c9Pb7oiLi3SDbewyBTWH3iyA2r3t",
-      "balance": 68316.19615433118
+      "balance": 68337.60896897277
     },
     {
       "account": "rn3UFqz6VU2AfR6cqFQ3fWxgWkUWR4XELm",
@@ -61454,7 +61454,7 @@
     },
     {
       "account": "rnxWBt7sfDsYkXPojLXmHsitqeUdzqSKVD",
-      "balance": 65129.69813021199
+      "balance": 65107.64455509365
     },
     {
       "account": "rJRudXP5qkWgrgTRXB2WTrhAZcR69geq3P",
@@ -106145,6 +106145,10 @@
       "balance": 7.777777777777779
     },
     {
+      "account": "rogue5HnPRSszD9CWGSUz8UGHMVwSSKF6",
+      "balance": 7.7511470964059
+    },
+    {
       "account": "rUTiGWTQyJmsCFqMC2qq7SCdasbFZXjzCC",
       "balance": 7.6816696
     },
@@ -117097,5 +117101,5 @@
       "balance": 1e-17
     }
   ],
-  "timestamp": "2025-11-26T18:07:33.186Z"
+  "timestamp": "2025-11-26T18:14:35.172Z"
 }
