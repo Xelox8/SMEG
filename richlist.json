@@ -2761,10 +2761,6 @@
       "balance": 10663819.43
     },
     {
-      "account": "rURRJQeVLapmZHNj888vepvzu5WyVWefrk",
-      "balance": 10653356.33622211
-    },
-    {
       "account": "rhDsjW6pYRjAFYp7Zbzs3tpMsTTzVjYcB9",
       "balance": 10643458.52452279
     },
@@ -2791,6 +2787,10 @@
     {
       "account": "rM5jAQKEH4qFkUMevCGfdVtrQC9F9xk8pn",
       "balance": 10581795.98
+    },
+    {
+      "account": "rURRJQeVLapmZHNj888vepvzu5WyVWefrk",
+      "balance": 10550415.15975152
     },
     {
       "account": "rnj7EEvLLn7empqcd5zZMsQh71xTyeFjvG",
@@ -53905,6 +53905,10 @@
       "balance": 102949.61
     },
     {
+      "account": "rw4t8VJkdjyoESYDTiAFWQn73S71SeA94y",
+      "balance": 102941.1876910747
+    },
+    {
       "account": "rHPpn8QPH3BD6kcfPe9PSuURNLQdy1PPTD",
       "balance": 102930.1492261513
     },
@@ -60966,7 +60970,7 @@
     },
     {
       "account": "rBbya3c9Pb7oiLi3SDbewyBTWH3iyA2r3t",
-      "balance": 68256.59214801123
+      "balance": 68294.62622755168
     },
     {
       "account": "rn3UFqz6VU2AfR6cqFQ3fWxgWkUWR4XELm",
@@ -61445,12 +61449,12 @@
       "balance": 65226.9779928
     },
     {
-      "account": "rnxWBt7sfDsYkXPojLXmHsitqeUdzqSKVD",
-      "balance": 65163.47817564756
-    },
-    {
       "account": "rHtcXNRxP5ffDunspoEAa4CU4ptvr1U9RH",
       "balance": 65151.58803021213
+    },
+    {
+      "account": "rnxWBt7sfDsYkXPojLXmHsitqeUdzqSKVD",
+      "balance": 65141.34371274921
     },
     {
       "account": "rJRudXP5qkWgrgTRXB2WTrhAZcR69geq3P",
@@ -105045,10 +105049,6 @@
       "balance": 26.77681855959
     },
     {
-      "account": "rogue5HnPRSszD9CWGSUz8UGHMVwSSKF6",
-      "balance": 25.82396088438689
-    },
-    {
       "account": "rEhs6V6khmJfEGA6M2Sb99c5dCZe8cPDtY",
       "balance": 25.4999627
     },
@@ -106007,6 +106007,10 @@
     {
       "account": "ra3qBZzU7W9pa3uYVjoMgaTXh9uj2QZyUF",
       "balance": 9.96776695638
+    },
+    {
+      "account": "rogue5HnPRSszD9CWGSUz8UGHMVwSSKF6",
+      "balance": 9.92434424228019
     },
     {
       "account": "rJy4LdAi1N6VPiEbZVCJXTJHg5CuQNfzgE",
@@ -111625,10 +111629,6 @@
       "balance": 0.011284273
     },
     {
-      "account": "rw4t8VJkdjyoESYDTiAFWQn73S71SeA94y",
-      "balance": 0.0112204865
-    },
-    {
       "account": "rH62UumaLQjs8sNotZX3GZNpB1i2qFqn2r",
       "balance": 0.0110000000001
     },
@@ -117101,5 +117101,5 @@
       "balance": 1e-17
     }
   ],
-  "timestamp": "2025-11-26T18:02:15.381Z"
+  "timestamp": "2025-11-26T18:03:59.172Z"
 }
