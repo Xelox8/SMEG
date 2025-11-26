@@ -2,7 +2,7 @@
   "simpleHolders": [
     {
       "account": "r3RaNVLvWjqqtFAawC6jbRhgKyFH7HvRS8",
-      "balance": 10068714459.73819
+      "balance": 10065114459.73819
     },
     {
       "account": "rf7g4JWCxu9oE1MKsWTihL9whY75AphCaV",
@@ -117097,5 +117097,5 @@
       "balance": 1e-17
     }
   ],
-  "timestamp": "2025-11-26T18:05:43.933Z"
+  "timestamp": "2025-11-26T18:07:33.186Z"
 }
