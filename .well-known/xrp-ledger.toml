@@ -1,0 +1,49 @@
+# xrp-ledger.toml
+# Serve from: https://smegsxrpl.com/.well-known/xrp-ledger.toml
+# IMPORTANT: Make sure your issuer account's on-ledger Domain field = "smegsxrpl.com"
+
+[METADATA]
+modified = 2026-01-25T20:09:28Z
+
+[ORGANIZATION]
+name = "SMEGS"
+website = "https://smegsxrpl.com"
+# Optional (recommended):
+# email = "contact@smegsxrpl.com"
+# twitter = "https://x.com/SMEGSXRPL"
+
+# --- Classic spec blocks (xrpl.org, Bithomp, etc.) ---
+[[ACCOUNTS]]
+address = "rNJT2HF6SE24kpy9HFHDjsFFn8sxdgsruq"
+desc = "Official issuer of the SMEG token."
+
+[[CURRENCIES]]
+code   = "534D454700000000000000000000000000000000"
+issuer = "rNJT2HF6SE24kpy9HFHDjsFFn8sxdgsruq"
+name   = "SMEG"
+desc   = "SMEG token."
+icon   = "https://raw.githubusercontent.com/Xelox8/SMEG/refs/heads/main/SMEG%20Token.png"
+display_decimals = 6
+
+# --- XRPL Meta / XLS-26 style blocks ---
+[[ISSUERS]]
+address = "rNJT2HF6SE24kpy9HFHDjsFFn8sxdgsruq"
+name = "SMEGS"
+desc = "Issuer of the SMEG token."
+icon = "https://raw.githubusercontent.com/Xelox8/SMEG/refs/heads/main/SMEG%20Token.png"
+
+[[TOKENS]]
+issuer = "rNJT2HF6SE24kpy9HFHDjsFFn8sxdgsruq"
+currency = "SMEG"
+name = "SMEG"
+desc = "SMEG token."
+icon = "https://raw.githubusercontent.com/Xelox8/SMEG/refs/heads/main/SMEG%20Token.png"
+
+[[TOKENS.URLS]]
+url = "https://smegsxrpl.com"
+type = "website"
+
+# Optional (recommended): add your socials/links
+# [[TOKENS.URLS]]
+# url = "https://x.com/SMEGSXRPL"
+# type = "social"
