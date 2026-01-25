@@ -20,7 +20,7 @@ desc = "Official issuer of the SMEG token."
 [[CURRENCIES]]
 code   = "534D454700000000000000000000000000000000"
 issuer = "rNJT2HF6SE24kpy9HFHDjsFFn8sxdgsruq"
-name   = "SMEG"
+name   = "SMEG Token"
 desc   = "SMEG token."
 icon   = "https://raw.githubusercontent.com/Xelox8/SMEG/refs/heads/main/SMEG%20Token.png"
 display_decimals = 6
